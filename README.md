@@ -34,3 +34,5 @@ GROUP BY · CASE WHEN · Subqueries · NTILE Window Function · Aggregate Functi
 
 ---
 
+## Dashboard Preview
+![Dashboard](Dashboard_preview.png)
